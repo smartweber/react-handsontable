@@ -1,0 +1,13 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+@import url('https://handsontable.com/static/css/main.css');
+@import '~handsontable/dist/handsontable.full.css';
+
+body {
+  background: #3f51b5 !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
